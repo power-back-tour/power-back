@@ -6532,6 +6532,9 @@ body{
 
 /* Tour partners: responsive poster grid */
 .partners-page {
+  --pb-pink: #E81CFF;
+  --pb-purple: #8F8BFE;
+  --pb-black: #232221;
   overflow: hidden;
   padding: 190px 0 110px;
   background-color: #f9f5e6;
